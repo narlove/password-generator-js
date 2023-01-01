@@ -3,7 +3,7 @@ DATE: 30/12/2022
 ## Description
 A highly customisable password generator. Has been fitted with the appropriate documentation.
 ## Customisable features
- - Change the amount of passwords returned (one string or 6 strins in an array)
+ - Change the amount of passwords returned (one string or as many strings as you want in an array)
  - Change the number of characters in your password
  - Choose which types of characters you want in your password
 ## Quick overview
